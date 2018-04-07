@@ -14,3 +14,6 @@ You will see the web page and if you scroll down you will see the results of the
 
 ## Licence
 MIT Licence.
+
+## Screenshot
+![Jasmine Output](screenshot.png)
